@@ -1,0 +1,12 @@
+{
+  "name": "data-structure-algorithms-javascript",
+  "version": "1.0.0",
+  "description": "Book Exercises",
+  "main": "index.js",
+  "repository": "git@github.com:jvpereirarocha/data-structure-algorithms-javascript.git",
+  "author": "Joao Victor Rocha <jvpereirarocha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
